@@ -73,7 +73,7 @@ transform-style: preserve-3;
     font-weight: 300;
     font-size: 2rem;
     color: #fff;
-    transition: all 0.6 ease;
+    transition: all 0.3 ease;
     width: 100%;
     height: 100%;
     background-color: #303050;
@@ -102,5 +102,5 @@ transform-style: preserve-3;
 }
 .righter {
     transform: translateX(60px) translateZ(-50px) rotateY(10deg);
-    background-image: url(https://i.pinimg.com/736x/dd/58/fa/dd58fa23ad35977b9df70c5af54b17fe.jpg);
+    background-image: url(https://i.pinimg.com/736x/aa/bc/b5/aabcb50cf75b1db97a38b592d12acc2f.jpg);
 }
